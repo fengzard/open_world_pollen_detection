@@ -10,5 +10,5 @@ Visual microscope identifications of fossil pollen are used to reconstruct paleo
 to improve over time. These methods are not only relevant to pollen analysis
 but apply to other counts of visually diverse biological data.
 
-Last edited: March 12, 2023
+**Last edited**: March 12, 2023
 
