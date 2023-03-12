@@ -3,6 +3,7 @@
 Models and data can be accessed from ____.
 
 **Authors**: Jennifer T. Feng, Shu Kong, Timme Donders, Surangi Punyasena
+**Last edited**: March 12, 2023
 
 ## Abstract
 
@@ -10,5 +11,8 @@ Visual microscope identifications of fossil pollen are used to reconstruct paleo
 to improve over time. These methods are not only relevant to pollen analysis
 but apply to other counts of visually diverse biological data.
 
-**Last edited**: March 12, 2023
+**Keywords:** fossil pollen, object detection, machine learning, detection bias, domain gaps, continual learning
+
+## Significance
+
 
