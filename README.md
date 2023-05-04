@@ -1,6 +1,6 @@
 # Object detection on microscope slides: fossil pollen analysis using open-world deep learning
 
-Models and data can be accessed from ____.
+Image stack, annotation, and ground-truth mask data can be accessed from the Illinois Databank (Feng et al. 2023): https://databank.illinois.edu/datasets/IDB-5855228?code=xjXBDHYYMDtcHgN1gqQWaYOb2NT_YbUrbfKpBeZkYWc.
 
 **Authors**: Jennifer T. Feng, Shu Kong, Timme Donders, Surangi Punyasena
 
