@@ -3,7 +3,7 @@
 
 Image stack, annotation, and ground-truth mask data can be accessed from the Illinois Databank (Feng et al. 2023): https://databank.illinois.edu/datasets/IDB-5855228?code=xjXBDHYYMDtcHgN1gqQWaYOb2NT_YbUrbfKpBeZkYWc.
 
-**Authors**: Jennifer T. Feng, Shu Kong, Timme Donders, Surangi Punyasena
+**Authors**: Jennifer T. Feng, Shu Kong, Timme H. Donders, Surangi W. Punyasena
 
 **Last edited**: March 12, 2023
 
