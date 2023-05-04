@@ -14,6 +14,3 @@ Image stack, annotation, and ground-truth mask data can be accessed from the Ill
 
 **Keywords:** continual learning, deep learning, domain gaps, open-world, palynology, pollen grain detection, rare species, small grains, taxonomic bias
 
-## Significance
-
-
